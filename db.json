@@ -1,0 +1,13 @@
+{
+  "posts": [
+    {
+      "title": "sample task",
+      "description": "sample task description",
+      "id": 1
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
